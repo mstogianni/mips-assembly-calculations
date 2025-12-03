@@ -63,5 +63,3 @@ Reads user input and prints formatted output.
 - Manual control flow (no high-level constructs)  
 - Memory and register-level thinking  
 - Basic I/O through system calls  
-
-This project showcases low-level programming and machine-level reasoning—useful for showing hardware/software understanding in a portfolio.
